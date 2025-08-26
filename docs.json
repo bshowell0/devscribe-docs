@@ -1,0 +1,80 @@
+{
+  "Essentials": [
+    {
+      "name": "health_check.md",
+      "pretty_name": "health_check"
+    },
+    {
+      "name": "user_analytics.md",
+      "pretty_name": "user_analytics"
+    },
+    {
+      "name": "health_check.md",
+      "pretty_name": "health_check"
+    },
+    {
+      "name": "user_analytics.md",
+      "pretty_name": "user_analytics"
+    },
+    {
+      "name": "health_check.md",
+      "pretty_name": "health_check"
+    },
+    {
+      "name": "user_analytics.md",
+      "pretty_name": "user_analytics"
+    },
+    {
+      "name": "health_check.md",
+      "pretty_name": "health_check"
+    },
+    {
+      "name": "increment.md",
+      "pretty_name": "increment"
+    },
+    {
+      "name": "user_analytics.md",
+      "pretty_name": "user_analytics"
+    },
+    {
+      "name": "health_check.md",
+      "pretty_name": "health_check"
+    },
+    {
+      "name": "iseven.md",
+      "pretty_name": "iseven"
+    },
+    {
+      "name": "user_analytics.md",
+      "pretty_name": "user_analytics"
+    },
+    {
+      "name": "external_docs.md",
+      "pretty_name": "external_docs"
+    },
+    {
+      "name": "external_docs.md",
+      "pretty_name": "external_docs"
+    }
+  ],
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Essentials",
+            "pages": [
+              "generated/get_user_by_id",
+              "generated/create_user",
+              "generated/borrow"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "global": {
+    "anchors": []
+  }
+}
